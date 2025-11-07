@@ -2,7 +2,7 @@ layout: page title: Core Technical Case Studies permalink: /projects/
 
 Research & Applied Systems Portfolio
 
-This portfolio showcases projects focused on three core areas relevant to Sony R&D: **Real-Time System Optimization**, **3D/4D Perception & Generation**, and **Full-Stack Hardware Integration**.
+This portfolio showcases projects focused on three core areas relevant to Sony R&D: Real-Time System Optimization, 3D/4D Perception & Generation, and Full-Stack Hardware Integration.
 
 Ongoing Research (3D/4D Generation)
 
