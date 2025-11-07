@@ -1,4 +1,4 @@
-layout: page title: 3D Mapping with Kinect v1 on ROS 2 Humble permalink: /https://www.google.com/search?q=kinect-slam/
+layout: page title: 3D Mapping with Kinect v1 on ROS 2 Humble permalink: https://www.google.com/search?q=/kinect-slam/
 
 Legacy Sensor Integration for 3D SLAM in ROS2 Humble
 
