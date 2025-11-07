@@ -60,15 +60,3 @@ Designed a reliable, multi-modal embedded system for synchronous vehicle data lo
 
 ***
 
-### What I Changed and Why it Looks Better
-
-1.  **Emojis (🚀🔬⚡🤖💡):** Emojis are used next to main section headings (`##`) to add immediate visual flair and categorize the projects at a glance.
-2.  **Cleaned Up Project Descriptions:** The core idea of each project now leads the section, and details are moved into structured bullet points.
-3.  **Key Metric Bullet Points (🎯 & 🛠️):**
-    * I introduced specific emojis (`🎯` for metric, `🛠️` for technical highlight) to instantly identify the most valuable piece of information in each project.
-    * **Bolding** is used strategically on performance numbers (**60 FPS**, **16ms latency**) and technical keywords (**Hotswap Memory Manager**, **non-linear calibration algorithm**).
-4.  **Clear Call-to-Action:** The links to the full case studies are consistent, bolded, and end with an arrow (`→`) to encourage clicks and smooth navigation.
-
-This structure is much easier for a reader (like a recruiter) to quickly scan and extract your most impressive achievements!
-
-Would you like to move on to refining your **`index.md`** homepage or one of the individual project pages next?
