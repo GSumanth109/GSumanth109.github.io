@@ -1,4 +1,4 @@
-layout: page title: Monocular Depth Estimation (3D Spatial Localization) permalink: /https://www.google.com/search?q=monocular-3d/
+layout: page title: Monocular Depth Estimation (3D Spatial Localization) permalink: https://www.google.com/search?q=/monocular-3d/
 
 Real-Time Monocular 3D Spatial Reasoning
 
@@ -11,8 +11,6 @@ Technical Approach & Innovation
 This project established a real-time pipeline using state-of-the-art models and a custom calibration loop.
 
 Depth Backbone: Utilized Depth Anything V2 to generate high-fidelity relative depth maps from the monocular camera stream.
-
-Metric Calibration: Designed a custom non-linear calibration algorithm to dynamically map relative depth values to a stable absolute metric distance (in meters), successfully mitigating environmental light sensitivity.
 
 3D Output: System simultaneously extracts object position, horizontal angle, and metric distance relative to the camera center.
 
