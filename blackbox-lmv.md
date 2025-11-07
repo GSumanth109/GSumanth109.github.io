@@ -1,4 +1,4 @@
-layout: page title: Blackbox-for-LMV (Automotive Event Recorder) permalink: /https://www.google.com/search?q=blackbox-lmv/
+layout: page title: Blackbox-for-LMV (Automotive Event Recorder) permalink: https://www.google.com/search?q=/blackbox-lmv/
 
 Multi-Modal Vehicular Blackbox System
 
