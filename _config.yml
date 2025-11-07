@@ -6,16 +6,16 @@ description: "High-Throughput CV, SLAM, and System Integration Portfolio"
 url: "https://GSumanth109.github.io" 
 github_username: GSumanth109
 
-# Theme Selection (Based on your provided list)
+# Theme Selection
 theme: jekyll-theme-hacker
 
 # Build settings
 markdown: kramdown
 
-# Navigation Links (These will be the links in your site's header)
+# Navigation Links (This is what creates the menu bar!)
 header_pages:
-  - about.md
-  - projects.md
+  - about.md # Link will display as 'About'
+  - projects.md # Link will display as 'Projects'
 
 # Exclude files from processing
 exclude:
