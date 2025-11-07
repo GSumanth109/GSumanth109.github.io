@@ -17,7 +17,6 @@ This portfolio showcases projects focused on three core areas relevant to Sony R
 A novel approach integrating **semantic knowledge** directly into **3D representation (GS) parameters** for creating editable digital twins.
 * **Focus:** Enhancing 3D models with semantic context for scene manipulation.
 * **Technologies:** **PyTorch**, **Gaussian Splatting** , 3D/4D Perception.
-* **[View Project Details →](/semantic-segmentation-gs/)**
 
 ---
 
