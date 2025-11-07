@@ -21,4 +21,4 @@ This project required a full-stack engineering solution, including custom hardwa
 ---
 
 ## Links
-* [Kinect ROS 2 Setup Guide (External Link)](https://github.com/GSumanth109/Kinect-ROS2-Setup)
+* [Kinect ROS 2 Setup Guide (Github)](https://github.com/GSumanth109/kinect-v1-ros2humble-setup-guide)
