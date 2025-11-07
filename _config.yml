@@ -1,0 +1,23 @@
+# GSumanth109.github.io
+# GitHub Pages Configuration
+title: Sumanth G. | Computer Vision & 3D Perception Researcher
+email: sumanth.gopisetty109@gmail.com
+description: "High-Throughput CV, SLAM, and System Integration Portfolio"
+url: "https://GSumanth109.github.io" 
+github_username: GSumanth109
+
+# Theme Selection (Based on your provided list)
+theme: jekyll-theme-hacker
+
+# Build settings
+markdown: kramdown
+
+# Navigation Links (These will be the links in your site's header)
+header_pages:
+  - about.md
+  - projects.md
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.loc
