@@ -9,7 +9,7 @@ permalink: /
 ## Quick Links
 
 * **[View My Full Project Portfolio](/projects/)** 🚀
-* **[Download My CV/Resume](https://drive.google.com/file/d/1VHl4hp1MKKDfgpyNS-T8oLm8fg2rbr3i/view?usp=sharing)** 📄
+* **[Download My CV/Resume](https://drive.google.com/file/d/1TFYATlcJBATrAHxWR80_Q5_IW37-USpu/view?usp=sharing)** 📄
 
 ---
 
