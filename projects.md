@@ -61,12 +61,3 @@ Designed a reliable, multi-modal embedded system for synchronous vehicle data lo
 
 ---
 
-### Key Improvements Made:
-
-1.  **Title Consistency:** Changed `title` in the front matter to **`Projects`** for cleaner navigation text (as configured in your `_config.yml`).
-2.  **Added Missing Link:** Added a link for the **"Semantic Segmentation in Gaussian Splatting"** project, using a placeholder file name **`/semantic-segmentation-gs/`**.
-3.  **Visual Aids:** Incorporated image tags to conceptually illustrate **Gaussian Splatting** and **SLAM**, adding technical context for the reader.
-
-Your project index is now visually engaging, fully linked, and clearly structured by technical domain!
-
-Would you like me to provide similar enhanced code for the details of one of your individual project pages, like **`dlc-live-pytorch.md`**?
