@@ -4,7 +4,7 @@ Real-Time, Low-Latency Pose Estimation (DLC-Live-PyTorch)
 
 Problem Statement & Motivation
 
-The widely used markerless pose estimation tool, DeepLabCut (DLC), typically operates at only $\approx$15 FPS in its TensorFlow deployment due to computational intensity. This is insufficient for capturing high-speed biological or robotic motion, restricting its utility for real-time applications and closed-loop control systems.
+The widely used markerless pose estimation tool, DeepLabCut (DLC), typically operates at only $\approx$15 FPS in real-time in its TensorFlow deployment due to computational intensity. This is insufficient for capturing high-speed biological or robotic motion, restricting its utility for real-time applications and closed-loop control systems.
 
 Technical Approach & Innovation
 
