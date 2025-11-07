@@ -16,7 +16,6 @@ This project established a real-time pipeline using state-of-the-art models and 
 
 * **Depth Backbone:** Utilized **Depth Anything V2** to generate high-fidelity relative depth maps from the monocular camera stream.
 * **3D Output:** System simultaneously extracts object position, horizontal angle, and **metric distance** relative to the camera center.
-* **Calibration Algorithm:** Integrated a custom **non-linear calibration algorithm** to mitigate ambient lighting effects and stabilize metric output.
 
 ## Performance Metrics
 * **Throughput:** Sustained **30 FPS** at 1920x1080 resolution.
@@ -25,4 +24,4 @@ This project established a real-time pipeline using state-of-the-art models and 
 ---
 
 ## Links
-* [GitHub Repository (Object Tracking)](https://github.com/GSumanth109/Monocular-3D-System)
+* [GitHub Repository (Object Tracking)](https://github.com/GSumanth109/object-tracking-with-angle-and-distance)
