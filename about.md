@@ -20,4 +20,4 @@ I am particularly enthusiastic about the opportunity at Sony because my research
 * **Email:** [sumanth.gopisetty109@gmail.com]
 * **GitHub:** [https://github.com/GSumanth109]
 * **LinkedIn:** [www.linkedin.com/in/sumanth-gopisetty-392176182]
-* **CV/Resume:** [Link to a downloadable PDF]
+* **CV/Resume:** [https://drive.google.com/file/d/1VHl4hp1MKKDfgpyNS-T8oLm8fg2rbr3i/view?usp=sharing]
