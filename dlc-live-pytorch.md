@@ -12,7 +12,7 @@ The widely used markerless pose estimation tool, DeepLabCut (DLC), typically ope
 
 ## Technical Approach & Innovation
 
-This project delivers a custom PyTorch-based DLC inference pipeline optimized for minimal latency and maximum throughput, achieving performance **4$\times$ faster** than the baseline.
+This project delivers a custom PyTorch-based DLC inference pipeline optimized for minimal latency and maximum throughput, achieving performance **4X faster** than the baseline.
 
 * **Low-Latency Inference:** Achieved a sustained **16ms latency** by enforcing a **batch size of 1** and leveraging **FP16 precision** on NVIDIA CUDA architecture.
 * **High-Throughput Stability:** Developed a custom **Hotswap Memory Manager** that actively monitors RAM usage and automatically clears redundant objects/swaps model weights. This ensured system stability and sustained performance at high frame rates, overcoming a major challenge in continuous real-time execution.
@@ -25,4 +25,4 @@ The system was architected using multi-process threads to isolate CPU-bound task
 ---
 
 ## Links
-* [GitHub Repository (DLC-Live-Pytorch)](https://github.com/GSumanth109/DLC-Live-Pytorch)
+* [GitHub Repository (DLC-Live-Pytorch)](https://github.com/GSumanth109/DLC-Live-Pytorch-)
