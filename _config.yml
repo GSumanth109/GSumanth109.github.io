@@ -21,3 +21,5 @@ header_pages:
 exclude:
   - Gemfile
   - Gemfile.loc
+# Google Analytics ID (some themes automatically inject this)
+google_analytics: G-99GTP72R10
